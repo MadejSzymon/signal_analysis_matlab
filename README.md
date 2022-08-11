@@ -1,5 +1,6 @@
 # signal_analysis_matlab
 App to signal analysis with the use of time-frequency analysis algorithms.
+![Untitled](https://user-images.githubusercontent.com/110915050/184119686-522ba751-960c-456a-bed2-d6028aab88cd.jpg)
 
 Necessary toolboxes:
 1. Mapping Toolbox
